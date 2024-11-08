@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HD</h1>
+<h1 align="center">Hi 👋, I'm Harsh Dewal</h1>
 <h3 align="center">A passionate data analyst, frontend developer and competitive programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdewal2508&label=Profile%20views&color=0e75b6&style=flat" alt="harshdewal2508" /> </p>
